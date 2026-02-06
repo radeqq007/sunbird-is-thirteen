@@ -1,0 +1,8 @@
+[package]
+name = "my-project"
+version = "0.0.0"
+description = "Checks if a number is thirteen"
+authors = ["Radosław Kaczmarczyk"]
+main = "./src/main.sb"
+
+[dependencies]
