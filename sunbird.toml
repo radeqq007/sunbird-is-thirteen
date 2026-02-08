@@ -1,5 +1,5 @@
 [package]
-name = "is-thirteen"
+name = "is_thirteen"
 version = "0.0.0"
 description = "Checks if a number is thirteen"
 authors = ["Radosław Kaczmarczyk"]
