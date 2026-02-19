@@ -1,5 +1,5 @@
 import "io"
 
-const is_thirteen = func(number: Int): Bool {
+export const is_thirteen = func(number: Int): Bool {
   return number == 13
 }
